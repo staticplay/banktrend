@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Bank Trend Reporter]]></title>
   <link href="http://financialtrends.github.com/banktrend/atom.xml" rel="self"/>
   <link href="http://financialtrends.github.com/banktrend/"/>
-  <updated>2013-04-07T11:42:16-07:00</updated>
+  <updated>2013-04-07T13:12:56-07:00</updated>
   <id>http://financialtrends.github.com/banktrend/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Stephen Way]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
