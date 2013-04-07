@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://financialtrends.github.com/banktrend/sitemap.xml 
